@@ -41,7 +41,7 @@ module.exports = function(environment) {
         id: 'a-witch'
       }, {
         label: 'Built by a Leeroy',
-        route: 'content',
+        route: 'page',
         id: 'themes'
       }]
     }
