@@ -40,9 +40,9 @@ module.exports = function(environment) {
         route: 'page',
         id: 'a-witch'
       }, {
-        label: 'Testing Thing, this is for my benefit :3',
+        label: 'Testing Thing',
         route: 'content',
-        id: 'using-tags'
+        id: 'ember'
       }]
     }
   };
