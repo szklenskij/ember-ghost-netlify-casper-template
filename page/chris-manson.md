@@ -1,5 +1,5 @@
 ---
-title: Built with [][1] by a ghost
+title: Built with technology by a ghost
 image: /images/built-by.jpg
 imageMeta:
   attribution:
