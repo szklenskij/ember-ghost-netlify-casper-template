@@ -1,5 +1,5 @@
 ---
-title: Built with ❤️ by Chris Manson
+title: Built with <i class="em em-eggplant"></i> by a ghost
 image: /images/built-by.jpg
 imageMeta:
   attribution:
