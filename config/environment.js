@@ -39,10 +39,6 @@ module.exports = function(environment) {
         label: 'Built by a Witch',
         route: 'page',
         id: 'a-witch'
-      }, {
-        label: 'Testing Thing',
-        route: 'content',
-        id: 'ember'
       }]
     }
   };
