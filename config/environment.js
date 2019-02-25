@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Jared Szklenski',
-      description: 'Really Kool Website - Built with the Blood of Our Enemies',
+      description: 'Really Kool Website - Built with the Bones of Our Enemies',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
@@ -39,6 +39,10 @@ module.exports = function(environment) {
         label: 'Built by a Witch',
         route: 'page',
         id: 'a-witch'
+      }, {
+        label: 'Testing Thing, this is for my benefit :3',
+        route: 'content',
+        id: 'using-tags'
       }]
     }
   };
