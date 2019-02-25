@@ -1,11 +1,11 @@
 ---
-name: Ghost
-id: ghost
-image: /images/ghost-icon.png
+name: Robot
+id: robot
+image: /images/team.png
 cover:
 website: https://github.com/empress/ember-ghost
 twitter:
 facebook:
 location:
 ---
-You can delete this user to remove all the welcome posts
+Beep=-boop
