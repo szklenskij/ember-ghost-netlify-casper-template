@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Jared Szklenski',
-      description: 'Static Blog System - Built with Ember',
+      description: 'Really Kool Website - Built with the Blood of Our Enemies',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
