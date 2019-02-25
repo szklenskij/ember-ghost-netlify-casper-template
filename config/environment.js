@@ -35,6 +35,10 @@ module.exports = function(environment) {
         label: 'Built by a Spoopy Ghost',
         route: 'page',
         id: 'chris-manson'
+      }, {
+        label: 'Built by a Witch',
+        route: 'page',
+        id: 'a-witch'
       }]
     }
   };
