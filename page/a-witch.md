@@ -1,6 +1,6 @@
 ---
-title: Built with <i class="em em-eggplant"></i> by a ghost
-image: /images/built-by.jpg
+title: Built by a bunch of bots
+image: /images/advanced.jpg
 imageMeta:
   attribution:
   attributionLink:
