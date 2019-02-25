@@ -36,7 +36,7 @@ module.exports = function(environment) {
         route: 'page',
         id: 'chris-manson'
       }, {
-        label: 'Built by a Witch',
+        label: 'Built by a Leeroy',
         route: 'page',
         id: 'a-witch'
       }]
