@@ -1,6 +1,6 @@
 ---
-title: Organising your content with tags
-image: /images/tags.jpg
+title: Helpful Hints for Me
+image: /images/gkapfham.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,9 +11,7 @@ tags:
   - getting-started
 ---
 
-Ember Ghost has a single, powerful organizational taxonomy, called tags.
-
-It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.
+Helpful Hints for **Me**
 
 
 ## Basic tagging
