@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 author: robot
-date: Tue Jun 12 2018 17:57:10 GMT+0100 (IST)
+date: Fri Mar 15 2019 09:52:00 GMT+0100 (IST)
 tags:
   - getting-started
 ---
@@ -84,3 +84,13 @@ Another way to insert links in markdown is using reference lists. You might want
 Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
+# Really Rigid
+
+Ember Ghost does not, and will never have the concept of user roles!
+
+This is because it is entirely a static system. You can assign authors to posts and generate new ones using `ember generate author` but if you need full user permissions (outside of something like Github) and collaboration features I highly recommend that you sign up for a [hosted Ghost instance](https://ghost.org/).
+
+
+It's a good idea to fill out the metadata on authors, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.
