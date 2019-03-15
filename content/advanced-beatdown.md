@@ -1,5 +1,5 @@
 ---
-title: Advanced Beatdown Tips
+title: Advanced Ideas
 image: /images/advanced.jpg
 imageMeta:
   attribution:
@@ -13,4 +13,4 @@ tags:
 
 
 
-For when you really want to beat someone into the dirt...
+Still thinking...

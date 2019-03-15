@@ -1,6 +1,6 @@
 ---
 title: Helpful Hints for Me
-image: /images/gkapfham.jpg
+image: /images/ember.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -11,7 +11,7 @@ tags:
   - getting-started
 ---
 
-A collection of helpful hints for **Me** provided by the original author, that spoopy ghosty boi
+A collection of helpful hints provided by the original author.
 
 # Tagging
 
