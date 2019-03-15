@@ -11,18 +11,19 @@ tags:
   - getting-started
 ---
 
-Hey! Welcome to Ember Ghost, it's great to have you :)
+Hey! Welcome to my website, it's great to have you :)
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+This is in the very first stages of infancy and I am still messing around with all this template has to offer.
 
 
 ### There are a few things that you should know up-front:
 
-1. Ember Ghost is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
 
-1. Ember Ghost is designed for developers who know how to deploy a satic site (folder of html files and assets) using something like S3 or even just on NGINX.
+1. I'm still trying to figure out how to get emojis to work, because I really want them, even though I don't know where I'll be using them...
 
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
+1. I Have plans for numerous easter eggs to be hidden throughout the side, as well as memes, gifs, and other fun stuff.
+
+1. I also plan to try and implement some sort of achievement tracker or badges for doing stuff cuz that would be kool.
 
 ### Quick Start
 
