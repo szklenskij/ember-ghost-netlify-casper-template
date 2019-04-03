@@ -4,7 +4,7 @@ image: /images/welcome.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: ghost
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
