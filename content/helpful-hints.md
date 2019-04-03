@@ -4,7 +4,7 @@ image: /images/ember.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: robot
 date: Fri Mar 15 2019 09:52:00 GMT+0100 (IST)
 tags:
