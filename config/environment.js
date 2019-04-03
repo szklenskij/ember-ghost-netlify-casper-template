@@ -41,8 +41,8 @@ module.exports = function(environment) {
         id: 'a-witch'
       }, {
         label: 'Built by Horses',
-        route: 'content',
-        id: 'welcome'
+        route: 'page',
+        id: 'chris-manson'
       }]
     }
   };
