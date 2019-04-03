@@ -40,9 +40,9 @@ module.exports = function(environment) {
         route: 'page',
         id: 'a-witch'
       }, {
-        label: 'Built by a Leeroy',
-        route: 'page',
-        id: 'themes'
+        label: 'Built by Horses',
+        route: 'content',
+        id: 'welcome'
       }]
     }
   };
