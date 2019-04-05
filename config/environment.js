@@ -24,8 +24,8 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Jared Szklenski',
-      description: 'Really Kool Website - Built with the Bones of Our Enemies',
+      title: 'Szklenski Tabletop and RPG',
+      description: 'Ideas, Stories, and Projects',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
