@@ -4,7 +4,7 @@ image: /images/ember.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: robot
 date: Fri Mar 15 2019 09:52:00 GMT+0100 (IST)
 tags:
@@ -95,3 +95,8 @@ This is because it is entirely a static system. You can assign authors to posts 
 If you want to start a new post we recommend that you use the built in generator `ember generate post "The next big thing - Ember Ghost"`. This will create a file for you and setup the start of the metadata.
 
 It's a good idea to fill out the metadata on authors, including bio and social links. These will populate rich structured data for posts and generally create more opportunities for themes to fully populate their design.
+
+
+# Creating User Accounts
+
+https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#quickstart
