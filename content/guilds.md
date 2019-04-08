@@ -1,6 +1,6 @@
 ---
 title: D&D Guilds
-image: /images/writing.jpg
+image: /images/antique-architecture-big-door-1467592.jpg
 imageMeta:
   attribution:
   attributionLink:
