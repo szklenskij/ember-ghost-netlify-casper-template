@@ -1,6 +1,6 @@
 ---
 title: Boss Fight Simulator
-image: /images/design.jpg
+image: /images/armor-close-up-combat-161936.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -10,7 +10,7 @@ date: Tue Jun 12 2018 17:49:21 GMT+0100 (IST)
 tags:
   - projects
 ---
-A terminal-based game/project from Freshman year.
+A terminal-based game/project from Freshman year. I have just found it again in the depths of my computer's directories, but unfortunately it is currently broken for some reason. I would very much like to get it working again and to be able to share it.
 
 <div id="terminal"></div>
       <script>
