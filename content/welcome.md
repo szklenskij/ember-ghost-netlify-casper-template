@@ -1,5 +1,5 @@
 ---
-title: Welcome to Ember Ghost
+title: Welcome!
 image: /images/welcome.jpg
 imageMeta:
   attribution:
