@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-image: /images/welcome.jpg
+image: /images/antique-art-bookcase-1301585.jpg
 imageMeta:
   attribution:
   attributionLink:
