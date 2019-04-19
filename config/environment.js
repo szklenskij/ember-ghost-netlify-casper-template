@@ -42,7 +42,7 @@ module.exports = function(environment) {
       }, {
         label: 'Built by Horses',
         route: 'page',
-        id: 'chris-manson'
+        id: 'king'
       }]
     }
   };
