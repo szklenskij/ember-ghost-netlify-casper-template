@@ -5,7 +5,7 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: king
+author: robot
 date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
