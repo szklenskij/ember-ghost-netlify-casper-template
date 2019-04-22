@@ -36,8 +36,8 @@ module.exports = function(environment) {
         route: 'page',
         id: 'a-witch'
       }, {
-        label: 'Written by a King',
-        route: 'page',
+        label: 'General',
+        route: 'author',
         id: 'king'
       }]
     }
