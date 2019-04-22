@@ -1,5 +1,5 @@
 ---
-name: King
+name: Tabletop Fantasy
 id: king
 image: /images/doood.jpg
 cover:
