@@ -26,7 +26,7 @@ module.exports = function(environment) {
     blog: {
       title: 'Szklenski Tabletop and RPG',
       description: 'Ideas, Stories, and Projects',
-      coverImage: '/images/blog-cover.jpg',
+      coverImage: '/images/games-2025663_960_720.jpg',
 
       navigation: [{
         label: 'Home',
