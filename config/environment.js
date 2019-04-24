@@ -39,6 +39,10 @@ module.exports = function(environment) {
         label: 'General',
         route: 'author',
         id: 'king'
+      }, {
+        label: 'Built by a Basic',
+        route: 'link-content',
+        id: 'homebrew-meet'
       }]
     }
   };
