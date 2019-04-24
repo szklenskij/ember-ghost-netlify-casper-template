@@ -19,6 +19,8 @@ A terminal-based game/project from Freshman year. I have just found it again in 
 <script type="text/javascript" language="javascript" src="js/country.js"></script>
 {% endfor %}
 
+<script type="text/javascript" language="javascript" src="js/country.js"></script>
+
 <div id="terminal"></div>
       <script>
         var term = new Terminal();
