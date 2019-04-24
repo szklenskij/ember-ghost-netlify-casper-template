@@ -22,3 +22,6 @@ tags:
 | Rolk                | Kobold     | Bard     |         |   |
 | Rhogar              | Dragonbor  | Sorcere  |         |   |
 | Shin                | Human      | Monk     |         |   |
+
+
+Thoridin Frostbeard, a powerful, drunken, gay hill dwarf is the rock of the party... Or, should I say anchor, as he spent many years of his life on the sea, gaining knowledge in both medicine and seafaring before meeting his lover, Derik, an orc warrior and companion of the party.
