@@ -16,6 +16,7 @@ A terminal-based game/project from Freshman year. I have just found it again in 
 
 {% for js in page.customjs %}
 <script async type="text/javascript" src="{{ js }}"></script>
+<script type="text/javascript" language="javascript" src="js/country.js"></script>
 {% endfor %}
 
 <div id="terminal"></div>
