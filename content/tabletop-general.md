@@ -4,7 +4,7 @@ image: /images/architecture-building-castle-1071188.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: general
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:

@@ -4,7 +4,7 @@ image: /images/antique-architecture-big-door-1467592.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: king
 date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
 tags:

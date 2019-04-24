@@ -4,7 +4,7 @@ image: /images/armor-close-up-combat-161936.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: true
+featured: false
 author: robot
 date: Wed Apr 24 2019 09:28:00 GMT+0100 (IST)
 customjs:
