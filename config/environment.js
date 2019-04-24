@@ -23,10 +23,6 @@ module.exports = function(environment) {
       // when it is created
     },
 
-    {% for js in page.customjs %}
-    <script async type="text/javascript" src="{{ js }}"></script>
-    {% endfor %},
-
     blog: {
       title: 'Szklenski Tabletop and RPG',
       description: 'Ideas, Stories, and Projects',
