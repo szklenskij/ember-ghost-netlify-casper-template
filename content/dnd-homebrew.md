@@ -18,3 +18,5 @@ Partway through my 2nd semester of Freshman year I managed to fulfill one of the
 {{#link-to 'homebrew-meet' class="button"}}
     Damaged Goods
   {{/link-to}}
+
+  <button name="button" onclick="../p/homebrew-meet/">Damaged Goods</button>
