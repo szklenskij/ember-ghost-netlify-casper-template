@@ -1,6 +1,6 @@
 ---
 title: Temporary Author
-image: /images/advanced.jpg
+image: /images/ancient-antique-armor-339805.jpg
 imageMeta:
   attribution:
   attributionLink:
@@ -10,4 +10,4 @@ date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
-Currently a temporary author to the site.
+These pages are related to fantasy styled RPGs and other related content.
