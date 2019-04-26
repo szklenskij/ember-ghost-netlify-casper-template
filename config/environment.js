@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by a Basic',
+        label: 'Built by Dragon Breath',
         route: 'page',
-        id: 'a-witch'
+        id: 'king'
       }, {
         label: 'General',
         route: 'author',
