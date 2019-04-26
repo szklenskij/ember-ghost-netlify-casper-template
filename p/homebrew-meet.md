@@ -20,7 +20,7 @@ tags:
 |---------------------|------------|----------|---------|---|
 | Thoridin Frostbeard | Dwarf      | Cleric   |         |   |
 | Rolk                | Kobold     | Bard     |         |   |
-| Rhogar              | Dragonbor  | Sorcere  |         |   |
+| Rhogar              | Dragonbor  | Sorcerer |         |   |
 | Shin                | Human      | Monk     |         |   |
 
 
