@@ -1,5 +1,5 @@
 ---
-title: Temporary Author
+title: Fantasy and D&D
 image: /images/ancient-antique-armor-339805.jpg
 imageMeta:
   attribution:
