@@ -1,7 +1,7 @@
 ---
 name: Nerding in Technology
 id: robot
-image: /images/doood.jpg
+image: /images/advanced.jpg
 cover:
 website:
 twitter:

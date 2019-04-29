@@ -1,20 +1,14 @@
 ---
-title: Homebrew D&D - Meet the Characters
-image: /images/armor-armory-armour-63852.jpg
+title: Meet the characters
+image: /images/blade-close-up-daytime-1383766.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: king
-date: Wed Apr 24 2019 09:53:00 GMT+0100 (IST)
+author: general
+date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
-  - D&D
-  - homebrew
-  - tabletop
 ---
-
-
-
 
 | Character Name      | Race       | Class    | Trait   |   |
 |---------------------|------------|----------|---------|---|

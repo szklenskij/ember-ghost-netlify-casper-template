@@ -32,13 +32,13 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Dragon Breath',
+        label: 'Fantasy and D&D',
         route: 'page',
         id: 'king'
       }, {
-        label: 'General',
-        route: 'author',
-        id: 'king'
+        label: 'Meet the Characters',
+        route: 'page',
+        id: 'meet'
       }]
     }
   };

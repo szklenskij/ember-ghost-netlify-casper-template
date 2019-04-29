@@ -1,11 +1,11 @@
 ---
-title: Temporary Author
+title: Fantasy and D&D
 image: /images/ancient-antique-armor-339805.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: king
+author:
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
