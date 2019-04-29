@@ -32,7 +32,7 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Dragon Breath',
+        label: 'Fantasy and D&D',
         route: 'page',
         id: 'king'
       }, {
