@@ -36,9 +36,9 @@ module.exports = function(environment) {
         route: 'page',
         id: 'king'
       }, {
-        label: 'General',
-        route: 'author',
-        id: 'king'
+        label: 'Meet the Characters',
+        route: 'page',
+        id: 'meet'
       }]
     }
   };
