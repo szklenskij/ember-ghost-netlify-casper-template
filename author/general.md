@@ -1,7 +1,7 @@
 ---
 name: General - Jared
 id: general
-image: /images/architecture-building-castle-1071188.jpg
+image: /images/architecture-building-castle-1590882.jpg
 cover:
 website:
 twitter:
