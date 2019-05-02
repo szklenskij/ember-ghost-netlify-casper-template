@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: false
 author: king
-date: Wed Apr 24 2019 09:53:00 GMT+0100 (IST)
+date:
 tags:
   - D&D
   - homebrew
