@@ -10,7 +10,7 @@ Router.map(function() {
   this.route('p');
   this.route('meet');
   this.route('page/homebrew-meet', { path: '/homebrew-meet'});
-  this.route('404', { path: '/404'});
+  this.route('404', { path: '/*path'});
 });
 
 export default Router;
