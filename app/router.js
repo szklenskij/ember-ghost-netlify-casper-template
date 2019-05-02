@@ -9,6 +9,7 @@ const Router = EmberRouter.extend({
 Router.map(function() {
   this.route('p');
   this.route('meet');
+  this.route('homebrew-meet');
 });
 
 export default Router;
