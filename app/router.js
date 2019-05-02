@@ -9,7 +9,7 @@ const Router = EmberRouter.extend({
 Router.map(function() {
   this.route('p');
   this.route('meet');
-  this.route('404', { path: '/*path'});
+  this.route('/p/404', { path: '/*path'});
 });
 
 export default Router;
