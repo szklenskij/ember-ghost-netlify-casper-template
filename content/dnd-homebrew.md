@@ -4,7 +4,7 @@ image: /images/actors-audience-crowd-334068.jpg
 imageMeta:
   attribution:
   attributionLink:
-featured: false
+featured: true
 author: king
 date: Wed Apr 24 2019 09:53:00 GMT+0100 (IST)
 tags:
