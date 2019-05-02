@@ -2,7 +2,9 @@ import Route from '@ember/routing/route';
 
 export default Route.extend({
   init() {
-    var meet = this.get('meet');
+    this._super(...arguments);
+
+    var meet = this.get('hombrew-meet');
     this.set('meetId', `compontnet-id${hombrew-meet}`);
   }
 });
