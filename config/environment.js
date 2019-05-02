@@ -38,7 +38,7 @@ module.exports = function(environment) {
       }, {
         label: 'Meet the Characters',
         route: 'page',
-        id: 'meet'
+        id: 'homebrew-meet'
       }]
     }
   };
